@@ -1,0 +1,62 @@
+
+[
+    {
+      "id": 1,
+      "name": "Course 1",
+      "instructor": "Instructor 1",
+      "description": "This is the first course."
+    },
+    {
+      "id": 2,
+      "name": "Course 2",
+      "instructor": "Instructor 2",
+      "description": "This is the second course."
+    },
+    {
+      "id": 3,
+      "name": "Course 3",
+      "instructor": "Instructor 3",
+      "description": "This is the third  course."
+    },
+    {
+      "id": 4,
+      "name": "Course 4",
+      "instructor": "Instructor 4",
+      "description": "This is the fourth course."
+    },
+    {
+      "id": 5,
+      "name": "Course 5",
+      "instructor": "Instructor 5",
+      "description": "This is the fitth course."
+    },
+    {
+      "id": 6,
+      "name": "Course 6",
+      "instructor": "Instructor 6",
+      "description": "This is the sixth course."
+    }
+   ,
+   {
+    "id": 7,
+    "name": "Course 7",
+    "instructor": "Instructor 7",
+    "description": "This is the seventh course."
+  }
+ ,
+ {
+  "id": 8,
+  "name": "Course 8",
+  "instructor": "Instructor 8",
+  "description": "This is the eighth course."
+}
+,
+{
+  "id": 9,
+  "name": "Course 9",
+  "instructor": "Instructor 9",
+  "description": "This is the nineth course."
+}
+
+  ]
+  
